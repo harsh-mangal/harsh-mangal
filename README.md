@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/harshil092002" target="blank"><img src="https://img.shields.io/twitter/follow/harshil092002?logo=twitter&style=for-the-badge" alt="harshil092002" /></a> </p>
 
-- 🔭 I’m currently working on **GuruKul - An School ERP**
-
-- 🌱 I’m currently learning **Unity**
-
 - 💬 Ask me about **Mern Stack Development**
 
 - 📫 How to reach me **dev.harshmangal@gmail.com**
